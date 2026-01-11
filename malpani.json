@@ -1,0 +1,974 @@
+[
+  {
+    "Flat Name": "B101",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "B102",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "B103",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "B201",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "B202",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "B203",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "B301",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "B302",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "B303",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "B401",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "B402",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "B403",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "B501",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "B502",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "B503",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "B601",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "B602",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "B603",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "B701",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "B702",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "B703",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "B901",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "B902",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "B903",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "B1001",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "B1002",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "B1003",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "B1101",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "B1102",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "B1103",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "B1201",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "B1202",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "B1203",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "B1301",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "B1302",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "B1303",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "B1401",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "B1402",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "B1403",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "B1501",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "B1502",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "B1503",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "B1601",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "B1602",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "B1603",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "B1701",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "B1702",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "B1703",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "B1801",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "B1802",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "B1803",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "B1901",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "B1902",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "B1903",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "B2001",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "B2002",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "B2003",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "B2101",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "B2102",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "B2103",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "B2201",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "B2202",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "B2203",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "B2301",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "B2302",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "B2303",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "B2401",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "B2402",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "B2403",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "B2501",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "B2502",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "B2503",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "B2601",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "B2602",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "B2603",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "B2701",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "B2702",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "B2703",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "B2801",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "B2802",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "B2803",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C101",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C102",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C103",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C104",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C105",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C106",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C201",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C202",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C203",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C204",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C205",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C206",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C301",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C302",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C303",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C304",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C305",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C306",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C401",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C402",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C403",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C404",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C405",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C406",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C501",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C502",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C503",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C504",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C505",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C506",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C601",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C602",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C603",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C604",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C605",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C606",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C701",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C702",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C703",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C704",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C705",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C706",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C801",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C802",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C803",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C804",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C805",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C806",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C901",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C902",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C903",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C904",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C905",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C906",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C1001",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C1002",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C1003",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C1004",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C1005",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C1006",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C1101",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C1102",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C1103",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C1104",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C1105",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C1106",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C1201",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C1202",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C1203",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C1204",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C1205",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C1206",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C1301",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C1302",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C1303",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C1304",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C1305",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C1306",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C1401",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C1402",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C1403",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C1404",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C1405",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C1406",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C1501",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C1502",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C1503",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C1504",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C1505",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C1506",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C1601",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C1602",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C1603",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C1604",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C1605",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C1606",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C1701",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C1702",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C1703",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C1704",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C1705",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C1706",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C1801",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C1802",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C1803",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C1804",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C1805",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C1806",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C1901",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C1902",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C1903",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C1904",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C1905",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C1906",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C2001",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C2002",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C2003",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C2004",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C2005",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C2006",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C2101",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C2102",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C2103",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C2104",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C2105",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C2106",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C2201",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C2202",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C2203",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C2204",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C2205",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C2206",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C2301",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C2302",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C2303",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C2304",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C2305",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C2306",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C2401",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C2402",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C2403",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C2404",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C2405",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C2406",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C2501",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C2502",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C2503",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C2504",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C2505",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C2506",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C2601",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C2602",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C2603",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C2604",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C2605",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C2606",
+    "State ": "2 "
+  },
+  {
+    "Flat Name": "C2701",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C2702",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C2703",
+    "State ": "0 "
+  },
+  {
+    "Flat Name": "C2704",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C2705",
+    "State ": "1 "
+  },
+  {
+    "Flat Name": "C2706",
+    "State ": "0 "
+  }
+]
